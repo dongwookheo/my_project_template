@@ -1,0 +1,14 @@
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/CMakeFiles/MAIN.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/CMakeFiles/package.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/CMakeFiles/package_source.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/CMakeFiles/package.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/CMakeFiles/package_source.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/CMakeFiles/edit_cache.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/CMakeFiles/rebuild_cache.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/example/CMakeFiles/PROJECT_MODULE_EXAMPLE.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/example/CMakeFiles/package.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/example/CMakeFiles/package_source.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/example/CMakeFiles/edit_cache.dir
+/home/mint/Documents/project_template/cpp_template/cmake-build-debug/modules/example/CMakeFiles/rebuild_cache.dir

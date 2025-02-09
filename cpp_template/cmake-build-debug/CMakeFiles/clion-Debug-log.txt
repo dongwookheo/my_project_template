@@ -1,0 +1,19 @@
+/home/mint/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mint/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/mint/Documents/project_template/cpp_template -B /home/mint/Documents/project_template/cpp_template/cmake-build-debug
+-- Package name: CPP_PROJECT_TEMPLATE
+-- Package version: 0.1.0
+-- Package path: /home/mint/Documents/project_template/cpp_template
+-- Package source directories: /home/mint/Documents/project_template/cpp_template/src
+-- Package test directories: /home/mint/Documents/project_template/cpp_template/test
+-- Package config directories: /home/mint/Documents/project_template/cpp_template/config
+-- Package module directories: /home/mint/Documents/project_template/cpp_template/modules
+-- Package thirdparty directories: /home/mint/Documents/project_template/cpp_template/thirdparty
+
+-- Library name: PROJECT_MODULE_EXAMPLE
+-- Library version: 1.0.0
+-- Library path: /home/mint/Documents/project_template/cpp_template/modules/example
+-- Library include directories: /home/mint/Documents/project_template/cpp_template/modules/example/include
+-- Library source directories: /home/mint/Documents/project_template/cpp_template/modules/example/src
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mint/Documents/project_template/cpp_template/cmake-build-debug
